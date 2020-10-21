@@ -14,7 +14,9 @@
 - Video Documentation
 - Diagram of Circuit you used. 
 - Explain how the power is flowing through the circuit
-### Step 2: RGB LED
+### Step 3: RGB LED
 - Video Documentation
 - Diagram of Circuit you used. 
 - Explain how the power is flowing through the circuit. Note if there are any tricks to combining the RGB LED and the button
+### Step 4: Lantern Design
+Return to your lantern design. Elaborate. Some things to include: How will you incorporate the LED light? Where will the lantern live - outdoors or indoors? How will you protect it from the elements if outdoors? Will your lantern do anything special, or just work on a button press? Add dimensions. The draft turned in next week should be ready to build. 
