@@ -8,14 +8,17 @@
 ## To Turn In
 ### Step 1: Push Button and fading
 - Video Documentation
+- add your commented code. zip it
 - Diagram of Circuit you used. 
 - Explain how the power is flowing through the circuit
 ### Step 2: RGB LED
 - Video Documentation
+- add your commented code. zip it
 - Diagram of Circuit you used. 
 - Explain how the power is flowing through the circuit
 ### Step 3: RGB LED
 - Video Documentation
+- add your commented code. zip it
 - Diagram of Circuit you used. 
 - Explain how the power is flowing through the circuit. Note if there are any tricks to combining the RGB LED and the button
 ### Step 4: Lantern Design
