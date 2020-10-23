@@ -16,7 +16,7 @@
 - add your commented code. zip it
 - Diagram of Circuit you used. 
 - Explain how the power is flowing through the circuit
-### Step 3: RGB LED
+### Step 3: RGB LED + Push Button
 - Video Documentation
 - add your commented code. zip it
 - Diagram of Circuit you used. 
