@@ -26,3 +26,4 @@ Return to your lantern design. Elaborate. Some things to include: How will you i
 
 ## Submissions
 - [FirstName LastName](www.example.com)
+- [Elijah Story](https://github.com/ElijahStory/Lab7-Elijah-Story)
